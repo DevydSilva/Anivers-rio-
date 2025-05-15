@@ -131,6 +131,11 @@ h1, h2, h3, h4, h5, h6 {
     color: #800000;
 }
 
+.contribuicao .card-body .lead,
+.contribuicao .card-body .fs-5 {
+    color: #000000 !important; /* Changed to black */
+}
+
 .lead {
     font-size: 1.15rem;
     color: #FFD700; /* Texto lead agora DOURADO */
